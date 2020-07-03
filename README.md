@@ -8,6 +8,9 @@
 
 -----
 **Currently on**
+
+-----
+
 **The aim is to provide a simple and clear implementation of a basic `ANN`, showing the differant bricks of the structure, and the basics of each part.**
 
 **This work is based on <a href="http://neuralnetworksanddeeplearning.com/">Deep Learning Book</a> the outstanding introduction to neural networks by `Michael Nielsen`.**
