@@ -7,7 +7,7 @@
 >#### This is a basic implementation of an `artificial neural network` from A to Z. The aim of course is not of course to mimic the famous <a href="https://keras.io/">Keras</a> `François chollet`'s library, the work is far from that ... 
 
 -----
-
+**Currently on**
 **The aim is to provide a simple and clear implementation of a basic `ANN`, showing the differant bricks of the structure, and the basics of each part.**
 
 **This work is based on <a href="http://neuralnetworksanddeeplearning.com/">Deep Learning Book</a> the outstanding introduction to neural networks by `Michael Nielsen`.**
